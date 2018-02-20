@@ -1,0 +1,118 @@
+body {
+    background-image: url("../images/cam-bridge-resize.jpg");
+    background-size: cover;
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-color: #BC968A;
+}
+
+h1 {
+   color: white;
+   font-size: 60px;
+   padding: 10px 0px 0px 0px;
+}
+
+
+h2 {
+    color: white;
+    font-size: 50px;
+    background-color: rgba(0, 0, 0, 0.35) ;
+    padding: 20px;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+}
+
+ul {
+    color: white;
+    font-size: 24px;
+    list-style-position: outside;
+}
+
+
+form {
+    line-height: 30px;
+    font-size: 18px;
+}
+
+input {
+    height: 30px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+input[value="John Smith"] {
+    font-size: 18px;
+    color: #cccccc;
+}
+
+input[value="example@gmail.com"] {
+    font-size: 18px;
+    color: #cccccc;
+}
+
+
+.submitbutton {
+    width: 120px;
+    height: 40px;
+    background-color: #44ABA5;
+    color: white;
+    font-size: 18px;
+}
+
+.imagecontainer {
+    float: left;
+}
+
+
+.slot {
+    padding: 0px 20px;
+    float: left;
+    margin: auto;
+}
+
+/*navbar hovers and spacing*/
+
+.navbar-inner {
+    background:transparent;
+}
+
+.navbar {
+    padding-left:0px;
+}
+
+.social .fa-instagram:hover {
+    background-color: #D33294;
+}
+
+.social .fa-twitter:hover {
+    background-color: #00ABE3;
+}
+
+.social .fa-github:hover {
+    background-color: #24292E;
+}
+
+.social .fa-stack-overflow:hover {
+    background-color: #F5935A;
+}
+
+.social .fa-linkedin-in:hover {
+    background-color: #0078B1;
+}
+
+.navbar-nav > li {
+    padding-left:10px;
+    padding-right:10px;
+  }
+
+.bio {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.35);
+    font-size: 20px;
+    padding: 14px;
+}
+
+
