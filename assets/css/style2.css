@@ -3,7 +3,7 @@ body {
     background-size: cover;
     background-position: top center;
     background-repeat: no-repeat;
-    background-color: brown;
+    background-color: rgb(126, 67, 34);
     color: white;
 }
 
@@ -41,7 +41,7 @@ h1 {
     background-color: #0078B1;
 }
 
-.navbar-nav > li {
+.social > li {
     padding-left:10px;
     padding-right:10px;
   }
