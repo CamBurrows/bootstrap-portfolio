@@ -55,3 +55,16 @@ form {
 .standing {
     width: 600px;
 }
+
+.description {
+    background-color: rgba(0, 0, 0, 0.5);
+    font-size: 18px;
+    color: white;
+    font-family: 'Karma', serif;
+    padding-top: 10px;
+    line-height: 28px;
+}
+
+.carousel-caption {
+    color: black;
+}
